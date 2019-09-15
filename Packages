@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: İbrahim beylem
 Installed-Size: 3.3
 Depends: 
-Filename: ./Paketler/com.validaliy.bittopla_1.deb
+Filename: ./debs/com.validaliy.bittopla_1.deb
 Size: 2 
 MD5sum: a8bda084f4f479f92956367baecab9aa
 SHA1: 3db81ec5ce13d2404348f73e58e3d2ef98f07b1f
