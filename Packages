@@ -1,0 +1,16 @@
+Package: com.beylem.bittopla_1
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: İbrahim beylem
+Installed-Size: 3.3
+Depends: 
+Filename: ./Paketler/com.beylem.bittopla_1.deb
+Size: 2 
+MD5sum: a8bda084f4f479f92956367baecab9aa
+SHA1: 3db81ec5ce13d2404348f73e58e3d2ef98f07b1f
+SHA256: 843d44f2704f0559e94f1e6cd38193c7959ea6aba8e6f42e3236eee398926b1c
+Section: Addons (Autotouch)
+Description: Vodafone internet avcıları otomatik bit toplama 
+Author: ibrahim beylem
+Name: İnternet avcıları otomatik bit toplama
+Depiction: Vodafone internet avcıları otomatik bit toplama 
