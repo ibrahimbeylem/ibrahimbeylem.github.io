@@ -1,8 +1,8 @@
-Origin: Yusuf's Repository  
-Label: Yusuf's Repository
+Origin: İbrahim Repository  
+Label: İbrahim Repository
 Suite: stable
 Version: 3.0
-Codename: stable
+Codename: stabile
 Architectures: iphoneos-arm
 Components: main
-Description: Yusuf OZGUL Personal Cydia Repository
+Description: İbrahim beylemin kişisel cydia reposu
