@@ -1,0 +1,43 @@
+Package: com.beylem.ZilSesleri
+Version: 1.0
+Section: Ringtones
+Maintainer: validaliy <validaliy63@gmail.com>
+Architecture: iphoneos-arm
+Filename: debs/com.beylem.zilsesleri.deb
+Size: 13667498
+Installed-Size: 392
+MD5sum: 72cf71cc33b3fd3deae0ed58ad8ed394
+Description: ibrahim beylem tarafından hazırlanan zil sesleri
+Name: Beylem zil sesleri
+Author: ibrahim Beylem <validaliy63@gmail.com>
+Homepage: validaliy.github.io
+Depiction: tasvir
+
+Package: com.validaliy.autotouch-tr-yama
+Version: 1.0
+Section: Addons (Autotouch)
+Maintainer: Validaliy <validaliy63@gmail.com>
+Depends: me.autotouch.autotouch.ios8
+Architecture: iphoneos-arm
+Filename: debs/com.validaliy.autotouch-tr-yama.deb
+Size: 7964
+Installed-Size: 16052
+MD5sum: 9c1d51e7597e7e519f9f582571b13aa2
+Description: AutoTouch Türkçe yama
+Name: AutoTouch Türkçe yama
+Author: ibrahim Beylem <validaliy63@gmail.com>
+
+Package: com.validaliy.bittopla
+Version: 1.0
+Section: Addons (Autotouch)
+Maintainer: Validaliy
+Depends: cn.tinyapps.xgpsfree, me.autotouch.autotouch.ios8
+Architecture: iphoneos-arm
+Filename: debs/com.validaliy.bittopla.deb
+Size: 1794
+Installed-Size: 3.3
+MD5sum: c940750990ec126c6269c1d993e5afc4
+Description: Vodafone internet avcıları otomatik bit toplama
+Name: İnternet Avcıları hack (bit toplama)
+Author: ibrahim Beylem <validaliy63@gmail.com>
+
