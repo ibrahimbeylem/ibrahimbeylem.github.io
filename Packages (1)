@@ -1,7 +1,7 @@
 Package: com.validaliy.bittopla_1
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: İbrahim beylem
+Maintainer: İbrahim beylem <validaliy63@gmail.com>
 Installed-Size: 3.3
 Depends: cn.tinyapps.xgpsfree, me.autotouch.autotouch.ios8
 Filename: ./debs/com.validaliy.bittopla_1.deb
@@ -11,6 +11,25 @@ SHA1: 3db81ec5ce13d2404348f73e58e3d2ef98f07b1f
 SHA256: 843d44f2704f0559e94f1e6cd38193c7959ea6aba8e6f42e3236eee398926b1c
 Section: Addons (Autotouch)
 Description: Vodafone internet avcıları otomatik bit toplama 
-Author: ibrahim beylem
+Author: ibrahim beylem <validaliy63@gmail.com>
 Name: İnternet avcıları otomatik bit toplama
-Depiction: “Vodafone internet avcıları otomatik bit toplama “
+Depiction: https://validaliy.github.io
+
+
+Package: com.beylem.zilsesleri
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: İbrahim beylem <validaliy63@gmail.com>
+Installed-Size: 13000
+Depends: com.unlimapps.toneenabler
+Filename: ./debs/com.beylem.zilsesleri.deb
+Size: 2 
+MD5sum: 72cf71cc33b3fd3deae0ed58ad8ed394
+SHA1: d4c8df2916a79cbcc80a20fccd1bf22c89c49a99
+SHA256: 6482304d86f9ad578d0e2ef6c4db2677c4beb5f4ea70cf4b5109c165a3766dc1
+Section: Ringtones
+Description: Zil sesleri
+Author: ibrahim beylem <validaliy63@gmail.com>
+Name: zil sesleri
+Depiction: https://validaliy.github.io
+
