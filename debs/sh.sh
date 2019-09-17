@@ -1,5 +1,5 @@
 #!/bin/bash
-paket=com.validaliy.autotouch-tr-yama
+read paket
 
 echo paketleniyor
 dpkg-deb -b $paket

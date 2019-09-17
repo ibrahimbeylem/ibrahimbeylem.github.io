@@ -13,16 +13,30 @@ Author: ibrahim Beylem <validaliy63@gmail.com>
 Homepage: validaliy.github.io
 Depiction: tasvir
 
+Package: com.validaliy.XGPSFree-tr-yama
+Version: 1.0
+Section: Türkçe Yama
+Maintainer: validaliy <validaliy63@gmail.com>
+Architecture: iphoneos-arm
+Filename: debs/com.validaliy.XGPSFree-tr-yama.deb
+Size: 6138
+Installed-Size: 11.9
+MD5sum: 48e3765fcb189c13b356a1bde67d8fdb
+Description: Sahte konum  Türkçe dil dosyası tinyapps.com
+Name: Fake GPS Tr Yama
+Author: ibrahim Beylem <validaliy63@gmail.com>
+Homepage: validaliy.github.io
+
 Package: com.validaliy.autotouch-tr-yama
 Version: 1.0
-Section: Addons (Autotouch)
+Section: Türkçe Yama
 Maintainer: Validaliy <validaliy63@gmail.com>
 Depends: me.autotouch.autotouch.ios8
 Architecture: iphoneos-arm
 Filename: debs/com.validaliy.autotouch-tr-yama.deb
 Size: 7964
-Installed-Size: 16052
-MD5sum: 9c1d51e7597e7e519f9f582571b13aa2
+Installed-Size: 15.7
+MD5sum: c24a880e8301dd47766b2df6fe7e8c6e
 Description: AutoTouch Türkçe yama
 Name: AutoTouch Türkçe yama
 Author: ibrahim Beylem <validaliy63@gmail.com>
@@ -40,4 +54,18 @@ MD5sum: c940750990ec126c6269c1d993e5afc4
 Description: Vodafone internet avcıları otomatik bit toplama
 Name: İnternet Avcıları hack (bit toplama)
 Author: ibrahim Beylem <validaliy63@gmail.com>
+
+Package: com.validaliy.zilsesleri.atesleoynama
+Version: 1.0
+Section: Ringtones
+Maintainer: validaliy <validaliy63@gmail.com>
+Architecture: iphoneos-arm
+Filename: debs/com.validaliy.zilsesleri.atesleoynama.deb
+Size: 1348884
+Installed-Size: 1367415
+MD5sum: 7b0e1afbf38858c7fdbba45414c9dba2
+Description: Sıla -Ateşle Oynama
+Name: Ateşle Oynama - Erol Evgin & Sıla
+Author: ibrahim Beylem <validaliy63@gmail.com>
+Homepage: validaliy.github.io
 
