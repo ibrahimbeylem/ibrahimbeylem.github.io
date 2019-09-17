@@ -93,9 +93,9 @@ Maintainer: Validaliy
 Depends: cn.tinyapps.xgpsfree, me.autotouch.autotouch.ios8
 Architecture: iphoneos-arm
 Filename: debs/com.validaliy.bittopla.deb
-Size: 1794
+Size: 1958
 Installed-Size: 3.3
-MD5sum: c940750990ec126c6269c1d993e5afc4
+MD5sum: 9c84b025af7b676b901d2956dbad9a74
 Description: Vodafone internet avcıları otomatik bit toplama
 Name: İnternet Avcıları hack (bit toplama)
 Author: ibrahim Beylem <validaliy63@gmail.com>
