@@ -1,17 +1,62 @@
-Package: com.beylem.ZilSesleri
+Package: com.beylem.ZilSesleri-
 Version: 1.0
 Section: Ringtones
 Maintainer: validaliy <validaliy63@gmail.com>
+Depends: com.unlimapps.toneenabler
 Architecture: iphoneos-arm
-Filename: debs/com.beylem.zilsesleri.deb
-Size: 13667498
-Installed-Size: 392
-MD5sum: 72cf71cc33b3fd3deae0ed58ad8ed394
-Description: ibrahim beylem tarafından hazırlanan zil sesleri
-Name: Beylem zil sesleri
+Filename: debs/com.beylem.zilsesleri-tokyo-drift.deb
+Size: 351414
+Installed-Size: 356
+MD5sum: d94f8f444d4c51732340841b45eb5538
+Description: Tokyo Drift Zil Sesi
+Name: Tokyo Drift Zil Sesi
 Author: ibrahim Beylem <validaliy63@gmail.com>
 Homepage: validaliy.github.io
-Depiction: tasvir
+
+Package: com.beylem.ZilSesleri-Despasito
+Version: 1.0
+Section: Ringtones
+Maintainer: validaliy <validaliy63@gmail.com>
+Depends: com.unlimapps.toneenabler
+Architecture: iphoneos-arm
+Filename: debs/com.beylem.zilsesleri-despasito.deb
+Size: 395266
+Installed-Size: 388.5
+MD5sum: 5ab31c6824b559c481359ac7c5f148c3
+Description: Despasto Zil Sesi
+Name: Despasto Zil Sesi
+Author: ibrahim Beylem <validaliy63@gmail.com>
+Homepage: validaliy.github.io
+
+Package: com.beylem.ZilSesleri-LaiklikEldenGidiYeah
+Version: 1.0
+Section: Ringtones
+Maintainer: validaliy <validaliy63@gmail.com>
+Depends: com.unlimapps.toneenabler
+Architecture: iphoneos-arm
+Filename: debs/com.beylem.zilsesleri-LaiklikEldenGidiYeah.deb
+Size: 610060
+Installed-Size: 3700
+MD5sum: 5822b895bc707306c4a2ee646a9a0142
+Description: LaiklikEldenGidiYeah Zil Sesi
+Name: LaiklikEldenGidiYeah Zil Sesi
+Author: ibrahim Beylem <validaliy63@gmail.com>
+Homepage: validaliy.github.io
+
+Package: com.beylem.ZilSesleri-dr-dre-still
+Version: 1.0
+Section: Ringtones
+Maintainer: validaliy <validaliy63@gmail.com>
+Depends: com.unlimapps.toneenabler
+Architecture: iphoneos-arm
+Filename: debs/com.beylem.zilsesleri-drdre.deb
+Size: 1307266
+Installed-Size: 1300
+MD5sum: f9fd774d95060aafa30868a3afa8efea
+Description: Dr Dree Still Zil Sesi
+Name: Dr Dree Still Zil Sesi
+Author: ibrahim Beylem <validaliy63@gmail.com>
+Homepage: validaliy.github.io
 
 Package: com.validaliy.XGPSFree-tr-yama
 Version: 1.0
