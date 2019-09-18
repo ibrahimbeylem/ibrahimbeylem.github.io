@@ -1,0 +1,55 @@
+<package>
+	<id>VocabularyLearningApp</id>
+	<name>VocabularyLearningApp</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS>12.3</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Selamlar, bu uygulama benim ödevim, senden tek istediğim uygulamayı indirip alttaki sekmelerden en sağdaki kelime ekle sekmesinden uygulamaya kelime eklemen. Şimdiden teşekkür ederim :)</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<image>1.png</image>
+		</screenshot>
+		<screenshot>
+			<image>2.png</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>----</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Twitter</name>
+			<url>https://twitter.com/ysf_ozgul</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+		<link>
+			<name>Reddit</name>
+			<url>https://www.reddit.com/user/yusufozgul/</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+		<link>
+			<name>Facebook</name>
+			<url>https://www.facebook.com/yusuff.ozgul</url>
+			<iconclass>fa fa-facebook</iconclass>
+		</link>
+		<link>
+			<name>Mail</name>
+			<url>mailto:yozgul@icloud.com</url>
+			<iconclass>fa fa-at</iconclass>
+		</link>
+		<link>
+			<name>JailbreakTR Forum</name>
+			<url>https://www.jailbreaktr.com</url>
+			<iconclass>fa fa-apple</iconclass>
+		</link>
+	</links>
+</package>

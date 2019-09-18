@@ -1,0 +1,54 @@
+<package>
+	<id>PAKET_ADI</id>
+	<name>Sahte Konum Türkçe Yama</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>1</miniOS>
+			<maxiOS>13</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>GEREK</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Fake GPS Uygulamasını Türkçeleştirir</description>
+		<description>AÇIKLAMA</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<image>shot1.png</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>----</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Twitter</name>
+			<url>https://twitter.com/validaliy</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+		<link>
+			<name>Reddit</name>
+			<url>https://www.reddit.com/user/validaliy/</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+		<link>
+			<name>Facebook</name>
+			<url>https://www.facebook.com/validaliy</url>
+			<iconclass>fa fa-facebook</iconclass>
+		</link>
+		<link>
+			<name>Mail</name>
+			<url>mailto:validaliy63@gmail.com</url>
+			<iconclass>fa fa-at</iconclass>
+		</link>
+		<link>
+			<name>İbrahim beylem</name>
+			<url>https://validaliy.github.io</url>
+			<iconclass>fa fa-apple</iconclass>
+		</link>
+	</links>
+</package>
