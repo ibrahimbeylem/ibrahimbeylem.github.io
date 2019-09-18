@@ -64,13 +64,13 @@ Section: Türkçe Yama
 Maintainer: validaliy <validaliy63@gmail.com>
 Architecture: iphoneos-arm
 Filename: debs/com.validaliy.XGPSFree-tr-yama.deb
-Size: 6166
+Size: 6172
 Installed-Size: 11.9
-MD5sum: 116e8407bc8b5287e495322743dc70d4
+MD5sum: 3cde74692c6f472f89df0d375aca7280
 Description: Sahte konum  Türkçe dil dosyası tinyapps.com
 Name: Fake GPS Tr Yama
 Author: ibrahim Beylem <validaliy63@gmail.com>
-Depiction: https://validaliy.github.io/index.html?p=FakegpsTrYama
+Depiction: https://validaliy.github.io/depic/index.html?p=FakegpsTrYama
 
 Package: com.validaliy.autotouch-tr-yama
 Version: 1.0
