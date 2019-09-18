@@ -94,9 +94,9 @@ Maintainer: Validaliy <validaliy63@gmail.com>
 Depends: me.autotouch.autotouch.ios8
 Architecture: iphoneos-arm
 Filename: debs/com.validaliy.autotouch-tr-yama.deb
-Size: 8000
+Size: 8232
 Installed-Size: 15.7
-MD5sum: 3d6d823d9ac5e19768eda4b415d55fb6
+MD5sum: dadc0e5adeab2eab38dc5f3ef4d5fe18
 Description: AutoTouch Türkçe yama
 Name: AutoTouch Türkçe yama
 Author: ibrahim Beylem <validaliy63@gmail.com>
