@@ -4,12 +4,12 @@ Section: Ringtones
 Maintainer: validaliy <validaliy63@gmail.com>
 Depends: com.unlimapps.toneenabler
 Architecture: iphoneos-arm
-Filename: debs/com.beylem.zilsesleri-tokyo-drift.deb
-Size: 351414
-Installed-Size: 356
-MD5sum: d94f8f444d4c51732340841b45eb5538
-Description: Tokyo Drift Zil Sesi
-Name: Tokyo Drift Zil Sesi
+Filename: debs/com.beylem.zilsesleri.deb
+Size: 2379800
+Installed-Size: 
+MD5sum: cd221f5f2a4e36a04de0dfead7dc76eb
+Description: 
+Name: 
 Author: ibrahim Beylem <validaliy63@gmail.com>
 Homepage: validaliy.github.io
 
@@ -40,6 +40,21 @@ Installed-Size: 3700
 MD5sum: 5822b895bc707306c4a2ee646a9a0142
 Description: LaiklikEldenGidiYeah Zil Sesi
 Name: LaiklikEldenGidiYeah Zil Sesi
+Author: ibrahim Beylem <validaliy63@gmail.com>
+Homepage: validaliy.github.io
+
+Package: com.beylem.ZilSesleri-TokyoDrift
+Version: 1.0
+Section: Ringtones
+Maintainer: validaliy <validaliy63@gmail.com>
+Depends: com.unlimapps.toneenabler
+Architecture: iphoneos-arm
+Filename: debs/com.beylem.zilsesleri-tokyo-drift.deb
+Size: 351416
+Installed-Size: 356
+MD5sum: 63dbf158c7691b8634cf550ec8072c21
+Description: Tokyo Drift Zil Sesi
+Name: Tokyo Drift Zil Sesi
 Author: ibrahim Beylem <validaliy63@gmail.com>
 Homepage: validaliy.github.io
 
@@ -79,12 +94,13 @@ Maintainer: Validaliy <validaliy63@gmail.com>
 Depends: me.autotouch.autotouch.ios8
 Architecture: iphoneos-arm
 Filename: debs/com.validaliy.autotouch-tr-yama.deb
-Size: 7964
+Size: 8000
 Installed-Size: 15.7
-MD5sum: c24a880e8301dd47766b2df6fe7e8c6e
+MD5sum: 3d6d823d9ac5e19768eda4b415d55fb6
 Description: AutoTouch Türkçe yama
 Name: AutoTouch Türkçe yama
 Author: ibrahim Beylem <validaliy63@gmail.com>
+Depiction: https://validaliy.github.io/depic/index.html?p=AutoTouchTrYama
 
 Package: com.validaliy.bittopla
 Version: 1.0
