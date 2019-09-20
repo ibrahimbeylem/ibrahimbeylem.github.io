@@ -1,0 +1,21 @@
+#!/bin/bash
+echo
+echo
+echo
+echo "!! Türkçe Yama Kuruluyor !!"
+echo
+echo
+echo
+cp -fr /Applications/AutoTouch.app/en.lproj /Applications/AutoTouch.app/en.lproj.bak
+cp -fr  /tmp/Validaliy/* /Applications/AutoTouch.app/
+echo !!.......................................!!
+echo !!.......................................!!
+echo !!.......................................!!
+echo "!!.Türkçe Yama Kuruldu.!!"
+echo "** ** 🇹🇷🇹🇷🇹🇷🇹🇷 ** **"
+echo "!!Çeviri  by validaliy!!"
+echo !!.......................................!!
+echo !!.......................................!!
+echo !!.......................................!!
+rm -rf /tmp/validaliy/*
+exit 0;

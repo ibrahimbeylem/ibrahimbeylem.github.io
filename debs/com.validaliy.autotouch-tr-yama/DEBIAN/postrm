@@ -1,0 +1,4 @@
+
+rm -rf /Applications/AutoTouch.app/en.lproj
+cp -fr /Applications/AutoTouch.app/en.lproj.bak /Applications/AutoTouch.app/en.lproj
+exit 0;

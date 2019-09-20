@@ -1,0 +1,11 @@
+Name: Mozart-Türk-Marşı Zil Sesi
+Package: com.beylem.ZilSesleri-Mozart-Türk-Marsi
+Section: Ringtones
+Depends: com.unlimapps.toneenabler
+Installed-Size: 504
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Mozart-Türk-Marşı Zil Sesi
+Homepage: validaliy.github.io
+Author: ibrahim Beylem <validaliy63@gmail.com>
+Maintainer: validaliy <validaliy63@gmail.com>

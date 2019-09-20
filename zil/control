@@ -1,0 +1,11 @@
+Name: xxxxxx
+Package: com.beylem.ZilSesleri-xxxxxx
+Section: Ringtones
+Depends: com.unlimapps.toneenabler
+Installed-Size: boyut
+Version: 1.0
+Architecture: iphoneos-arm
+Description: xxxxxx
+Homepage: validaliy.github.io
+Author: ibrahim Beylem <validaliy63@gmail.com>
+Maintainer: validaliy <validaliy63@gmail.com>
