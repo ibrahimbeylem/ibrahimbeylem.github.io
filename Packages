@@ -5,14 +5,14 @@ Maintainer: validaliy <validaliy63@gmail.com>
 Depends: com.unlimapps.toneenabler
 Architecture: iphoneos-arm
 Filename: debs/com.beylem.zilsesleri-Arvb.deb
-Size: 405866
+Size: 405844
 Installed-Size: 404
-MD5sum: d9bdf0b702d59e5f08fd2f0ca2327035
+MD5sum: 9268ca7d1583473fc9eaa32edc2350e5
 Description: Arvb Zil Sesi
 Name: Arvb Zil Sesi
 Author: ibrahim Beylem <validaliy63@gmail.com>
 Homepage: validaliy.github.io
-Depiction: https://validaliy.github.io/depic/index.html?p=arvb
+Depiction: https://validaliy.github.io/depic/arvb/index.html
 
 Package: com.beylem.ZilSesleri-Despasito
 Version: 1.0
@@ -36,13 +36,14 @@ Maintainer: validaliy <validaliy63@gmail.com>
 Depends: com.unlimapps.toneenabler
 Architecture: iphoneos-arm
 Filename: debs/com.beylem.zilsesleri-Galatasaray-Intikam-Marsi.deb
-Size: 465878
+Size: 465890
 Installed-Size: 464
-MD5sum: 1b64bf0d7413a152ae68fc702c4e8a15
+MD5sum: 2c08cb8cc5b2dfea42a1790f51deae89
 Description: Galatasaray-Intikam-Marsi Zil Sesi
 Name: Galatasaray-Intikam-Marsi Zil Sesi
 Author: ibrahim Beylem <validaliy63@gmail.com>
 Homepage: validaliy.github.io
+Depiction: https://validaliy.github.io/depic/gsintikam/index.html
 
 Package: com.beylem.ZilSesleri-Hakan-Akkus
 Version: 1.0
@@ -51,9 +52,9 @@ Maintainer: validaliy <validaliy63@gmail.com>
 Depends: com.unlimapps.toneenabler
 Architecture: iphoneos-arm
 Filename: debs/com.beylem.zilsesleri-Hakan-Akkus.deb
-Size: 487398
+Size: 487386
 Installed-Size: 544
-MD5sum: 8b5716c4171e33d8787752e6d54f1f15
+MD5sum: 6d542bd9a4a94213d9fd7ee6738a105f
 Description: Hakan-Akkus Zil Sesi
 Name: Hakan-Akkus Zil Sesi
 Author: ibrahim Beylem <validaliy63@gmail.com>
@@ -104,6 +105,22 @@ Name: Tokyo Drift Zil Sesi
 Author: ibrahim Beylem <validaliy63@gmail.com>
 Homepage: validaliy.github.io
 
+Package: com.beylem.ZilSesleri-Tr-marsi
+Version: 1.0
+Section: Ringtones
+Maintainer: validaliy <validaliy63@gmail.com>
+Depends: com.unlimapps.toneenabler
+Architecture: iphoneos-arm
+Filename: debs/com.beylem.zilsesleri-Türk-Marsi.deb
+Size: 445930
+Installed-Size: 504
+MD5sum: 7500b103e3d9f81ba57b900719691b86
+Description: Türk Marşı Zil Sesi
+Name: Türk Marsi Zil Sesi
+Author: ibrahim Beylem <validaliy63@gmail.com>
+Homepage: validaliy.github.io
+Depiction: https://validaliy.github.io/depic/trmarsi/index.html
+
 Package: com.beylem.ZilSesleri-dhoom-dhoom
 Version: 1.0
 Section: Ringtones
@@ -111,13 +128,14 @@ Maintainer: validaliy <validaliy63@gmail.com>
 Depends: com.unlimapps.toneenabler
 Architecture: iphoneos-arm
 Filename: debs/com.beylem.zilsesleri-dhoom-dhoom.deb
-Size: 368592
+Size: 368616
 Installed-Size: 368
-MD5sum: 0c4ea4cffe024ccb575b47bb5df7cf2e
+MD5sum: 5fcade7e9243f365a49e61521807d764
 Description: dhoom-dhoom Zil Sesi
 Name: dhoom-dhoom Zil Sesi
 Author: ibrahim Beylem <validaliy63@gmail.com>
 Homepage: validaliy.github.io
+Depiction: https://validaliy.github.io/depic/dhoom/index.html
 
 Package: com.beylem.ZilSesleri-dr-dre-still
 Version: 1.0
@@ -141,13 +159,14 @@ Maintainer: validaliy <validaliy63@gmail.com>
 Depends: com.unlimapps.toneenabler
 Architecture: iphoneos-arm
 Filename: debs/com.beylem.zilsesleri-huawei-reklam.deb
-Size: 334662
+Size: 334680
 Installed-Size: 336
-MD5sum: a9ca820692de704775a65f3674025862
+MD5sum: e5a4608213ab8229b65e6b47e8a30955
 Description: huawei-reklam Zil Sesi
 Name: huawei-reklam Zil Sesi
 Author: ibrahim Beylem <validaliy63@gmail.com>
 Homepage: validaliy.github.io
+Depiction: https://validaliy.github.io/depic/huawei/index.html
 
 Package: com.beylem.ZilSesleri-kent
 Version: 1.0
@@ -156,13 +175,14 @@ Maintainer: validaliy <validaliy63@gmail.com>
 Depends: com.unlimapps.toneenabler
 Architecture: iphoneos-arm
 Filename: debs/com.beylem.zilsesleri-kent.deb
-Size: 1563660
+Size: 1563672
 Installed-Size: 1552
-MD5sum: 45fbe85f14dfb8c2fff42a14ef29fdec
+MD5sum: d1615d63e4294507ac7e8d654688c524
 Description: kent Zil Sesi
 Name: kent Zil Sesi
 Author: ibrahim Beylem <validaliy63@gmail.com>
 Homepage: validaliy.github.io
+Depiction: https://validaliy.github.io/depic/kent/index.html
 
 Package: com.beylem.ZilSesleri-plevne-marimba
 Version: 1.0
@@ -171,13 +191,14 @@ Maintainer: validaliy <validaliy63@gmail.com>
 Depends: com.unlimapps.toneenabler
 Architecture: iphoneos-arm
 Filename: debs/com.beylem.zilsesleri-plevne-marimba.deb
-Size: 442328
+Size: 442350
 Installed-Size: 532
-MD5sum: 172aa806ff755461cc0b9d456252b3f8
+MD5sum: 8e114cc6b12343bf4aaa5cce98be71a6
 Description: plevne-marimba Zil Sesi
 Name: plevne-marimba Zil Sesi
 Author: ibrahim Beylem <validaliy63@gmail.com>
 Homepage: validaliy.github.io
+Depiction: https://validaliy.github.io/depic/plevne/index.html
 
 Package: com.beylem.ZilSesleri-shapeofyou
 Version: 1.0
@@ -186,13 +207,14 @@ Maintainer: validaliy <validaliy63@gmail.com>
 Depends: com.unlimapps.toneenabler
 Architecture: iphoneos-arm
 Filename: debs/com.beylem.zilsesleri-shapeofyou.deb
-Size: 352966
+Size: 352982
 Installed-Size: 356
-MD5sum: cd112e02c59bab590000dfb1fa3e2413
+MD5sum: d400d0725f641e85bde00a66328d166e
 Description: shapeofyou Zil Sesi
 Name: shapeofyou Zil Sesi
 Author: ibrahim Beylem <validaliy63@gmail.com>
 Homepage: validaliy.github.io
+Depiction: https://validaliy.github.io/depic/shapeofyou/index.html
 
 Package: com.validaliy.XGPSFree-tr-yama
 Version: 1.0
@@ -217,7 +239,7 @@ Architecture: iphoneos-arm
 Filename: debs/com.validaliy.autotouch-tr-yama.deb
 Size: 8234
 Installed-Size: 15.7
-MD5sum: fb31cf3c320d5c238dab6f0d36b908e9
+MD5sum: 1218d400ae78dccb7e20396319f2ede9
 Description: AutoTouch Türkçe yama
 Name: AutoTouch Türkçe yama
 Author: ibrahim Beylem <validaliy63@gmail.com>
