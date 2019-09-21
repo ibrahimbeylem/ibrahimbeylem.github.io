@@ -1,0 +1,7 @@
+echo dosya adı
+read dosta
+echo kaçıncı saniyeden başlasın
+read baslangic
+echo kaç saniye sürsün
+read sure
+$dosya
