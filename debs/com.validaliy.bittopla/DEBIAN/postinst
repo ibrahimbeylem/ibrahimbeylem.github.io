@@ -1,7 +1,7 @@
-#!/bin/bash
-echo
-echo
-echo "Reklamlar engelleniyor."
-echo
-cat hosts.txt >> /etc/hosts
-exit 0
+model=$(uname -m)
+echo $model
+if [ "$model" = iPhone7,2 ] || [ "$model" = iPhone8,1 ] || [ "$model" = iPhone9,3 ] ; then
+    echo "Telefonunuz 6/6s veya 7"
+
+    echo Script yüklendi
+fi
