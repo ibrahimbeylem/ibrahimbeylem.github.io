@@ -225,7 +225,7 @@ Architecture: iphoneos-arm
 Filename: debs/com.beylem.zilsesleri-Halka-Terzi.deb
 Size: 610334
 Installed-Size: 651
-MD5sum: 71fb4e6f894112632ed736e25f4d5a76
+MD5sum: 6ed15b5841115d017f7e2c91d58769aa
 Description: Halka Terzi Zil Sesi
 Name: Halka Terzi Zil Sesi
 Author: ibrahim Beylem <validaliy63@gmail.com>
@@ -262,17 +262,32 @@ Author: ibrahim Beylem <validaliy63@gmail.com>
 Depiction: https://validaliy.github.io/depic/index.html?p=AutoTouchTrYama
 
 Package: com.validaliy.bittopla
-Version: 1.0
+Version: 1.1
 Section: Addons (Autotouch)
 Maintainer: Validaliy
 Depends: cn.tinyapps.xgpsfree, me.autotouch.autotouch.ios8
 Architecture: iphoneos-arm
 Filename: debs/com.validaliy.bittopla.deb
-Size: 2024
-Installed-Size: 3.3
-MD5sum: e294c4b3c0b1ab568fc3a48bbdc9278b
+Size: 2022
+Installed-Size: 5
+MD5sum: 1075cdd2547f713e62202dcf07742387
 Description: Vodafone iPhone 6 / 6s ve 7 için internet avcıları  otomatik bit toplama hack
 Name: İnternet Avcıları hack 6/6s/7 (bit toplama)
+Author: ibrahim Beylem <validaliy63@gmail.com>
+Depiction: https://validaliy.github.io/depic/index.html?p=bittopla
+
+Package: com.validaliy.bittopla-plus
+Version: 1.0
+Section: Addons (Autotouch)
+Maintainer: Validaliy
+Depends: cn.tinyapps.xgpsfree, me.autotouch.autotouch.ios8
+Architecture: iphoneos-arm
+Filename: debs/com.validaliy.bittopla-plus.deb
+Size: 2444
+Installed-Size: 5
+MD5sum: b1923b5fafba438b1df9b449868bb42c
+Description: Vodafone Plus modelleri için internet avcıları  otomatik bit toplama hack
+Name: İnternet Avcıları hack Plus(bit toplama)
 Author: ibrahim Beylem <validaliy63@gmail.com>
 Depiction: https://validaliy.github.io/depic/index.html?p=bittopla
 
