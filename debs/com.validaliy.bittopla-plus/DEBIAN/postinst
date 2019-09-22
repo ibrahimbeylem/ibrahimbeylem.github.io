@@ -1,7 +1,0 @@
-#!/bin/bash
-echo
-echo
-echo "Reklamlar engelleniyor."
-echo
-cat hosts.txt >> /etc/hosts
-exit 0
