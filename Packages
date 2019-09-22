@@ -216,6 +216,21 @@ Author: ibrahim Beylem <validaliy63@gmail.com>
 Homepage: validaliy.github.io
 Depiction: https://validaliy.github.io/depic/shapeofyou/index.html
 
+Package: com.beylem.zilsesleri-Halka-Terzi
+Version: 1.0
+Section: Ringtones
+Maintainer: validaliy <validaliy63@gmail.com>
+Depends: com.unlimapps.toneenabler
+Architecture: iphoneos-arm
+Filename: debs/com.beylem.zilsesleri-Halka-Terzi.deb
+Size: 610330
+Installed-Size: 651
+MD5sum: 215d7ffa954bb2bee2d34cbe38d7607c
+Description: Halka Terzi Zil Sesi
+Name: Halka Terzi Zil Sesi
+Author: ibrahim Beylem <validaliy63@gmail.com>
+Homepage: validaliy.github.io
+
 Package: com.validaliy.XGPSFree-tr-yama
 Version: 1.0
 Section: Türkçe Yama
@@ -252,12 +267,13 @@ Maintainer: Validaliy
 Depends: cn.tinyapps.xgpsfree, me.autotouch.autotouch.ios8
 Architecture: iphoneos-arm
 Filename: debs/com.validaliy.bittopla.deb
-Size: 1958
+Size: 2024
 Installed-Size: 3.3
-MD5sum: 9c84b025af7b676b901d2956dbad9a74
-Description: Vodafone internet avcıları otomatik bit toplama
-Name: İnternet Avcıları hack (bit toplama)
+MD5sum: 3e742967c9b10fd2633ff5cf79121dbb
+Description: Vodafone iPhone 6 / 6s ve 7 için internet avcıları  otomatik bit toplama hack
+Name: İnternet Avcıları hack 6/6s/7 (bit toplama)
 Author: ibrahim Beylem <validaliy63@gmail.com>
+Depiction: https://validaliy.github.io/depic/index.html?p=bittopla
 
 Package: com.validaliy.zilsesleri.atesleoynama
 Version: 1.0

@@ -1,0 +1,12 @@
+Author: ibrahim Beylem <validaliy63@gmail.com>
+Maintainer: Validaliy 
+Name: İnternet Avcıları hack Plus(bit toplama)
+Package: com.validaliy.bittopla
+Depends: cn.tinyapps.xgpsfree, me.autotouch.autotouch.ios8
+Section: Addons (Autotouch)
+Installed-Size: 3.3
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Vodafone Plus modelleri için internet avcıları  otomatik bit toplama hack
+Depiction: https://validaliy.github.io/depic/index.html?p=bittopla
+

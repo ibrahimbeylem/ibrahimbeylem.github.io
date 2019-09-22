@@ -11,7 +11,7 @@ do
          echo Ringtones Klasörü oluşturuluyor
          mkdir ${dosya%.m4r}/Library/Ringtones
          echo Zil Sesi taşınıyor
-         cp $dosya ${dosya%.m4r}/Library/Ringtones/com.beylem.zilsesleri-$dosya
+         cp $dosya ${dosya%.m4r}/Library/Ringtones/$dosya
          echo control dosyası kopyalanıyor
          cp control ${dosya%.m4r}/DEBIAN/control
          sed -i 's/xxxxxx/'${dosya%.m4r}' Zil Sesi/' ${dosya%.m4r}/DEBIAN/control
