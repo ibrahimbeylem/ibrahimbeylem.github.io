@@ -223,13 +223,14 @@ Maintainer: validaliy <validaliy63@gmail.com>
 Depends: com.unlimapps.toneenabler
 Architecture: iphoneos-arm
 Filename: debs/com.beylem.zilsesleri-Halka-Terzi.deb
-Size: 610330
+Size: 610334
 Installed-Size: 651
-MD5sum: 215d7ffa954bb2bee2d34cbe38d7607c
+MD5sum: 71fb4e6f894112632ed736e25f4d5a76
 Description: Halka Terzi Zil Sesi
 Name: Halka Terzi Zil Sesi
 Author: ibrahim Beylem <validaliy63@gmail.com>
 Homepage: validaliy.github.io
+Depiction: https://validaliy.github.io/depic/HalkaTerzi/index.html
 
 Package: com.validaliy.XGPSFree-tr-yama
 Version: 1.0
@@ -269,7 +270,7 @@ Architecture: iphoneos-arm
 Filename: debs/com.validaliy.bittopla.deb
 Size: 2024
 Installed-Size: 3.3
-MD5sum: 3e742967c9b10fd2633ff5cf79121dbb
+MD5sum: e294c4b3c0b1ab568fc3a48bbdc9278b
 Description: Vodafone iPhone 6 / 6s ve 7 için internet avcıları  otomatik bit toplama hack
 Name: İnternet Avcıları hack 6/6s/7 (bit toplama)
 Author: ibrahim Beylem <validaliy63@gmail.com>
