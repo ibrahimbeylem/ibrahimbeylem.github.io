@@ -1,4 +1,0 @@
-
-127.0.0.1 pagead2.googleadservices.com
-127.0.0.1 googleads.g.doubleclick.net
-

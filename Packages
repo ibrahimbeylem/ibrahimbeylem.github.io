@@ -225,7 +225,7 @@ Architecture: iphoneos-arm
 Filename: debs/com.beylem.zilsesleri-Halka-Terzi.deb
 Size: 610334
 Installed-Size: 651
-MD5sum: 3cc10a9ee8237b9e391307150b9d74a5
+MD5sum: a56416285f96d220258900be0d222028
 Description: Halka Terzi Zil Sesi
 Name: Halka Terzi Zil Sesi
 Author: ibrahim Beylem <validaliy63@gmail.com>
@@ -268,9 +268,9 @@ Maintainer: Validaliy
 Depends: cn.tinyapps.xgpsfree, me.autotouch.autotouch.ios8
 Architecture: iphoneos-arm
 Filename: debs/com.validaliy.bittopla.deb
-Size: 2112
+Size: 3106
 Installed-Size: 5
-MD5sum: 53252a160b3c2acc340787dc30b0a555
+MD5sum: 97c71362adb051d078a80851144e062b
 Description: Vodafone iPhone 6 / 6s ve 7 için internet avcıları  otomatik bit toplama hack
 Name: İnternet Avcıları hack 6/6s/7 (bit toplama)
 Author: ibrahim Beylem <validaliy63@gmail.com>
