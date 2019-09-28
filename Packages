@@ -262,15 +262,15 @@ Author: ibrahim Beylem <validaliy63@gmail.com>
 Depiction: https://validaliy.github.io/depic/index.html?p=AutoTouchTrYama
 
 Package: com.validaliy.bittopla
-Version: 1.1
+Version: 1.2
 Section: Addons (Autotouch)
 Maintainer: Validaliy
 Depends: cn.tinyapps.xgpsfree, me.autotouch.autotouch.ios8
 Architecture: iphoneos-arm
 Filename: debs/com.validaliy.bittopla.deb
-Size: 3136
+Size: 3156
 Installed-Size: 5
-MD5sum: ef4f57758b4950e3ddcbfe0df3208a87
+MD5sum: c761dd2f9eb3608004278ac1d2c39935
 Description: Vodafone internet avcıları  otomatik bit toplama hack
 Name: İnternet Avcıları hack (bit toplama)
 Author: ibrahim Beylem <validaliy63@gmail.com>
