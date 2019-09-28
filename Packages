@@ -239,9 +239,9 @@ Maintainer: Validaliy <validaliy63@gmail.com>
 Depends: com.vitataf.homegesture
 Architecture: iphoneos-arm
 Filename: debs/com.validaliy.TrYama.HomeGesture.deb
-Size: 5474
+Size: 5468
 Installed-Size: 9.9
-MD5sum: 1736991940081424bc553785dbe57389
+MD5sum: d6d11671fff4fc81a6fc2eecb14d531f
 Description: HomeGesture Türkçe yama
 Name: HomeGesture TR Yama
 Author: ibrahim Beylem <validaliy63@gmail.com>

@@ -6,7 +6,7 @@ echo "!! Türkçe Yama Kuruluyor !!"
 echo
 echo
 echo
-cp -fr  /tmp/Validaliy/tr.Iproj /Library/PreferenceBundles/HomeGesture.bundle/tr.lproj
+cp -fr  /tmp/validaliy/* /Library/PreferenceBundles/HomeGesture.bundle/
 echo !!.......................................!!
 echo !!.......................................!!
 echo !!.......................................!!

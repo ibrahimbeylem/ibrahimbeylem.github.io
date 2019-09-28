@@ -1,0 +1,58 @@
+<package>
+	<id>com.validaliy.XGPSFree-tr-yama</id>
+	<name>Sahte Konum Türkçe Yama</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>1</miniOS>
+			<maxiOS>13</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.validaliy.tryama.homegesture</package>
+	</dependencies>
+	<descriptionlist>
+		<description> HomeGesture Uygulamasını Türkçeleştirir</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<image>1.PNG</image>
+		</screenshot>
+		<screenshot>
+			<image>2.PNG</image>
+		</screenshot>
+		<screenshot>
+			<image>3.PNG</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>türkçeleştirildi</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Twitter</name>
+			<url>https://twitter.com/validaliy</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+		<link>
+			<name>Reddit</name>
+			<url>https://www.reddit.com/user/validaliy/</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+		<link>
+			<name>Facebook</name>
+			<url>https://www.facebook.com/validaliy</url>
+			<iconclass>fa fa-facebook</iconclass>
+		</link>
+		<link>
+			<name>Mail</name>
+			<url>mailto:validaliy63@gmail.com</url>
+			<iconclass>fa fa-at</iconclass>
+		</link>
+		<link>
+			<name>İbrahim beylem</name>
+			<url>https://validaliy.github.io</url>
+			<iconclass>fa fa-apple</iconclass>
+		</link>
+	</links>
+</package>
