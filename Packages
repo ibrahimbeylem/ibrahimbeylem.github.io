@@ -232,6 +232,21 @@ Author: ibrahim Beylem <validaliy63@gmail.com>
 Homepage: validaliy.github.io
 Depiction: https://validaliy.github.io/depic/HalkaTerzi/index.html
 
+Package: com.validaliy.TrYama.HomeGesture
+Version: 1.0
+Section: Türkçe Yama
+Maintainer: Validaliy <validaliy63@gmail.com>
+Depends: com.vitataf.homegesture
+Architecture: iphoneos-arm
+Filename: debs/com.validaliy.TrYama.HomeGesture.deb
+Size: 5474
+Installed-Size: 9.9
+MD5sum: 1736991940081424bc553785dbe57389
+Description: HomeGesture Türkçe yama
+Name: HomeGesture TR Yama
+Author: ibrahim Beylem <validaliy63@gmail.com>
+Depiction: https://validaliy.github.io/depic/index.html?p=HomeGestureTrYama
+
 Package: com.validaliy.XGPSFree-tr-yama
 Version: 1.0
 Section: Türkçe Yama

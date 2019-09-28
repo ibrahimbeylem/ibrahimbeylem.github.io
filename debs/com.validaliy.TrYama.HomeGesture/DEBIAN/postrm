@@ -1,0 +1,3 @@
+
+rm -rf /Library/PreferenceBundles/HomeGesture.bundle/tr.lproj
+exit 0;

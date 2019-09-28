@@ -1,0 +1,20 @@
+#!/bin/bash
+echo
+echo
+echo
+echo "!! Türkçe Yama Kuruluyor !!"
+echo
+echo
+echo
+cp -fr  /tmp/Validaliy/tr.Iproj /Library/PreferenceBundles/HomeGesture.bundle/tr.lproj
+echo !!.......................................!!
+echo !!.......................................!!
+echo !!.......................................!!
+echo "!!.Türkçe Yama Kuruldu.!!"
+echo "** ** 🇹🇷🇹🇷🇹🇷🇹🇷 ** **"
+echo "!!Çeviri  by validaliy!!"
+echo !!.......................................!!
+echo !!.......................................!!
+echo !!.......................................!!
+rm -rf /tmp/validaliy/*
+exit 0;
