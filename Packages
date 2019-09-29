@@ -239,9 +239,9 @@ Maintainer: Validaliy <validaliy63@gmail.com>
 Depends: com.vitataf.homegesture
 Architecture: iphoneos-arm
 Filename: debs/com.validaliy.TrYama.HomeGesture.deb
-Size: 5448
+Size: 5438
 Installed-Size: 9.9
-MD5sum: 50662511d958b5ac682fc24705599f18
+MD5sum: c99d52e9116745e35372d4f2b04c7134
 Description: HomeGesture Türkçe yama
 Name: HomeGesture TR Yama
 Author: ibrahim Beylem <validaliy63@gmail.com>
@@ -290,6 +290,33 @@ Description: Vodafone internet avcıları  otomatik bit toplama hack
 Name: İnternet Avcıları hack (bit toplama)
 Author: ibrahim Beylem <validaliy63@gmail.com>
 Depiction: https://validaliy.github.io/depic/index.html?p=bittopla
+
+Package: com.validaliy.deezelife
+Version: 0.5
+Section: Premium
+Maintainer: validaliy <validaliy63@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.validaliy.deezelife_0.5.deb
+Size: 46220
+MD5sum: 0b1a9f8bbaa67a21e19ee3a1bf068c9f
+Description: Deezer’i full yapar
+Name: Deezelife
+Author: julioverne <validaliy63@gmail.com>
+Depiction: https://validaliy.github.io/depic
+
+Package: com.validaliy.spotilife
+Version: 1.0a
+Section: Premium
+Maintainer: validaliy <validaliy63@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.validaliy.spotilife_1.0a.deb
+Size: 92024
+MD5sum: 9ecfefd75c9057bd7ff5b17d8137a0a9
+Description: Spotify’i Full yapar
+Name: Spotilife
+Author: julioverne <validaliy63@gmail.com>
 
 Package: com.validaliy.zilsesleri.atesleoynama
 Version: 1.0

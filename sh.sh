@@ -1,5 +1,4 @@
 #!/bin/bash
-echo asdasd | su
 read paket
 
 echo paketleniyor
