@@ -1,9 +1,0 @@
-Package: com.validaliy.spotilife
-Name: Spotilife
-Version: 1.0a
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Author: julioverne <validaliy63@gmail.com>
-Section: Premium
-Description: Spotify’i Full yapar
-Maintainer: validaliy <validaliy63@gmail.com>

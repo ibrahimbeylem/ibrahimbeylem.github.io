@@ -232,6 +232,161 @@ Author: ibrahim Beylem <validaliy63@gmail.com>
 Homepage: validaliy.github.io
 Depiction: https://validaliy.github.io/depic/HalkaTerzi/index.html
 
+Package: com.pxcex.camera360hack
+Version: 0.0.4
+Section: Premium
+Maintainer: validaliy
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.pxcex.camera360hack_0.0.3_iphoneos-arm.deb
+Size: 117188
+Installed-Size: 384
+MD5sum: c78fb431c9b7d7bca79202b5c1111c38
+Description: VIP Lifetime!
+Name: Camera360 Hack
+Author: pxcex
+
+Package: com.pxcex.enlightpixaloophack
+Version: 2.0.2
+Section: Premium
+Maintainer: validaliy
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.pxcex.enlightpixaloophack_2.0.1_iphoneos-arm.deb
+Size: 82996
+Installed-Size: 304
+MD5sum: 1501149fc31da77ce0641fa7d1770b1e
+Description: Unlock One Time Purchase for Free.
+Name: Enlight Pixaloop Hack
+Author: pxcex
+
+Package: com.pxcex.enlightquickshot
+Version: 0.0.2
+Section: Premium
+Maintainer: validaliy
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.pxcex.enlightquickshot_0.0.1_iphoneos-arm.deb
+Size: 78754
+Installed-Size: 272
+MD5sum: 3f7fcc3b0af6502eba235e5e42dec44d
+Description: Unlimited Access.
+Name: Enlight Quickshot Hack
+Author: pxcex
+
+Package: com.pxcex.enlightvideoleaphack
+Version: 0.0.2
+Section: Premium
+Maintainer: valdaliy
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.pxcex.enlightvideoleaphack_0.0.1_iphoneos-arm.deb
+Size: 78744
+Installed-Size: 272
+MD5sum: 43c6587806a6ed9d17f8f0146680eeb3
+Description: Free Unlimited Access.
+Name: Enlight Videoleap Hack
+Author: pxcex
+Depiction: https://paxcex.github.io/depictions/com.pxcex.enlightvideoleaphack/index.html
+
+Package: com.pxcex.enloghtphotofoxpro
+Version: 0.0.2
+Section: Premium
+Maintainer: validaliy
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.pxcex.enloghtphotofoxpro_0.0.1_iphoneos-arm.deb
+Size: 78728
+Installed-Size: 272
+MD5sum: 7cf22dd603736a19a54ab3c1d1356cf4
+Description: Free Unlimited access.
+Name: Enlight Photofox Pro
+Author: pxcex
+
+Package: com.pxcex.facetunevip
+Version: 2.0.1
+Section: Premium
+Maintainer: validaliy
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.pxcex.facetunevip_2.0.0.deb
+Size: 113954
+Installed-Size: 384
+MD5sum: b0325618079d91630cde6ee9faf37150
+Description: VIP Subscription Lifetime!
+Name: Facetune2 VIP
+Author: pxcex
+
+Package: com.pxcex.hexatechhack
+Version: 0.0.2
+Section: Premium
+Maintainer: validaliy
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.pxcex.hexatechhack_0.0.1_iphoneos-arm.deb
+Size: 5100
+Installed-Size: 152
+MD5sum: a511e3749da9b6ea2ce65e5525f31964
+Description: Hexatech Unlimited VPN Proxy Premium!
+Name: Hexatech VPN Hack
+Author: pxcex
+
+Package: com.pxcex.musixmatchpremium
+Version: 1.0.2
+Section: Premium
+Maintainer: validaliy
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.pxcex.musixmatchpremium_1.0.1_iphoneos-arm.deb
+Size: 84322
+Installed-Size: 288
+MD5sum: e2b9e4bda699195583676fbd0158c686
+Description: Musixmatch Party Mode & Premium Subscribtion.
+Name: Musixmatch Premium
+Author: pxcex
+
+Package: com.pxcex.picsarthack
+Version: 0.0.2
+Section: Premium
+Maintainer: validaliy
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.pxcex.picsarthack_0.0.1.deb
+Size: 82032
+Installed-Size: 288
+MD5sum: 8f7bfccfb42b84c2acf494198e7668f1
+Description: PicsArt Gold.
+Name: PicsArt Hack
+Author: pxcex
+
+Package: com.pxcexbetternethack
+Version: 0.0.6
+Section: Premium
+Maintainer: validaliy
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.pxcexbetternethack_0.0.5_iphoneos-arm.deb
+Size: 84200
+Installed-Size: 288
+MD5sum: c27b813a6ef28a7688930efc08237e1b
+Description: Best vpn proxy Betternet Premium For Free
+Name: Betternet Premium Hack
+Author: pxcex
+
+Package: com.reporthack
+Version: 0.0.2
+Section: Premium
+Maintainer: validaliy
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.reporthack_0.0.1_iphoneos-arm.deb
+Size: 81434
+Installed-Size: 256
+MD5sum: 015ce82e2f45493dca9b5124340ee82e
+Description: InstaReport Pro Life Time!
+Name: Reports+ For Instagram Hack
+Author: pxcex
+
 Package: com.validaliy.TrYama.HomeGesture
 Version: 1.0
 Section: Türkçe Yama
